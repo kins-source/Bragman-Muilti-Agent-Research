@@ -1,4 +1,4 @@
-﻿# ID-based RAG FastAPI
+﻿# Bragman  RAG FastAPI 
 
 ## Overview
 This project integrates Langchain with FastAPI in an Asynchronous, Scalable manner, providing a framework for document indexing and retrieval, using PostgreSQL/pgvector.
